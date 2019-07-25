@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        println("dev-omer branch")
+        println("release-v1.0.0 branch")
+        println("Bug fixes")
     }
 }
