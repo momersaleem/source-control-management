@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         println("release-v1.0.0 branch")
         println("Bug fixes")
+
+        println("Feature - Payment on spot by cash")
     }
 }
